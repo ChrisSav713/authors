@@ -1,0 +1,14 @@
+.info {
+    font-size: 1rem;
+    color: red;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+}
+
+.hide {
+    visibility: hidden;
+}
+
+.show {
+    visibility: visible;
+}
